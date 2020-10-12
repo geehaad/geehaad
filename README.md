@@ -8,7 +8,7 @@ I am a computer science student who is passionate about machine learning especia
 
 - 🌱 I’m currently learning Data science.
 - 👯 I’m a vice head in Hacker Rank campus club.
-- 🤔 I’m looking for help to have an internship in a company data science field.
+- 🤔 I’m looking for help to have an internship in data science field.
 - 💬 Ask me about Statistics ,Python, C++.
 - 📫 How to reach me: https://www.linkedin.com/in/gehad-hisham/
 
