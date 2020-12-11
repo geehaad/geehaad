@@ -4,7 +4,7 @@
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a computer science student who is passionate about machine learning especially computer vision
+I am a computer science student who is passionate about machine learning especially NLP
 
 - 🌱 I’m currently learning Data science.
 - 👯 I’m a vice head in Hacker Rank campus club.
