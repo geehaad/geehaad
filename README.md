@@ -8,6 +8,6 @@ I am a computer science student who is passionate about machine learning especia
 
 - 🌱 I’m currently learning Data science.
 - 🤔 I’m looking for help to have an internship in data science field.
-- 💬 Ask me about Statistics ,Python, C++.
+- 💬 Ask me about Statistics ,Python and JS.
 - 📫 How to reach me: https://www.linkedin.com/in/gehad-hisham/
 
