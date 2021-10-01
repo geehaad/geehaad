@@ -3,7 +3,7 @@
 <!--
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" src="https://giphy.com/clips/pixelart-unicorn-nyan-Ze44chcCSUpyVN1gmQ" width="200"/>
+<img align="right" src="https://giphy.com/clips/pixelart-unicorn-nyan-Ze44chcCSUpyVN1gmQ.gif" width="200"/>
 
 
 I am a computer science student who is passionate about machine learning especially NLP
