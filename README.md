@@ -1,4 +1,4 @@
-<center> Hi there I am Gehad 👋</center>
+<p style="text-align:center">Hi there, I am Gehad 👋!</p>
 
 <!--
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
