@@ -29,9 +29,10 @@ I am a computer science lover, who is passionate about machine learning especial
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geehaad)
 
 
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=geehaad&repo=react&show_owner=true)](https://github.com/facebook/react)
 
 
 
