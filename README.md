@@ -9,7 +9,7 @@
 I am a computer science lover, who is passionate about machine learning especially NLP
 
 - 🌱 I’m currently learning Data science.
-- 🤔 I’m looking for help to have an internship in data science field.
+- 🤔 I’m looking for an internship in data science field.
 - 💬 Ask me about Statistics ,Python and ML.
 -  https://www.linkedin.com/in/gehad-hisham/
 
