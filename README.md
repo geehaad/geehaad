@@ -13,7 +13,7 @@ I am a computer science student who is passionate about machine learning especia
 - 💬 Ask me about Statistics ,Python and ML.
 -  https://www.linkedin.com/in/gehad-hisham/
 
-<h2>�📫 How to reach me:</h2>
+<h2>📫 How to reach me:</h2>
 
 ![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <p>gehadhisham7@gmail.com</p>
 
