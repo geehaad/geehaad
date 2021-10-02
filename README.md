@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/geehaad/<OWNER>/<OWNER>/hero-8-bit-minimalism-retro-games-wallpaper-preview (1).jpg "Header")](https://some-url.dev/)
+[![Header](https://github.com/geehaad/geehaad<OWNER>/<OWNER>/hero-8-bit-minimalism-retro-games-wallpaper-preview (1).jpg "Header")](https://some-url.dev/)
 
 
 # Hi there, I am Gehad 👋!
