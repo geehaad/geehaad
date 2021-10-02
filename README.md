@@ -6,6 +6,13 @@
 <img align="right" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" width="200"/>
 
 
+I am a computer science student who is passionate about machine learning especially NLP
+
+- 🌱 I’m currently learning Data science.
+- 🤔 I’m looking for help to have an internship in data science field.
+- 💬 Ask me about Statistics ,Python and ML.
+- 📫 How to reach me: https://www.linkedin.com/in/gehad-hisham/
+
 <h2>📱 Contact</h2>
 
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gehadhisham7@gmail.com)
@@ -23,16 +30,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+<img height="300em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
-I am a computer science student who is passionate about machine learning especially NLP
 
-- 🌱 I’m currently learning Data science.
-- 🤔 I’m looking for help to have an internship in data science field.
-- 💬 Ask me about Statistics ,Python and ML.
-- 📫 How to reach me: https://www.linkedin.com/in/gehad-hisham/
 
