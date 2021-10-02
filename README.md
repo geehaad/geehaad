@@ -11,16 +11,16 @@ I am a computer science student who is passionate about machine learning especia
 - 🌱 I’m currently learning Data science.
 - 🤔 I’m looking for help to have an internship in data science field.
 - 💬 Ask me about Statistics ,Python and ML.
-- 📫 How to reach me: https://www.linkedin.com/in/gehad-hisham/
+-  https://www.linkedin.com/in/gehad-hisham/
 
-<h2>📱 Contact</h2>
+<h2>�📫 How to reach me:</h2>
 
-[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]: <p>gehadhisham7@gmail.com</p>
+[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] gehadhisham7@gmail.com
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-hisham/)
 
 
 <h2>👨👩 Social</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-hisham/)
 [![codePen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gehad-hisham/pens/public?cursor=ZD0wJm89MSZwPTEmdj0zMTE5Njc2Mw==)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gehadhisham7/)
 [![kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gehadabdelghany)
