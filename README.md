@@ -4,8 +4,7 @@
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <img align="right" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" width="200"/>
-<body bgcolor=”#800000">
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 I am a computer science student who is passionate about machine learning especially NLP
 
