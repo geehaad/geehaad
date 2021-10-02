@@ -1,4 +1,4 @@
-![GitHub Logo](/images/header.jpg)
+![](https://github.com/geehaad/header.jpg)
 
 # Hi there, I am Gehad 👋!
 
