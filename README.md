@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" width="200"/>
 
 
-I am a computer science student who is passionate about machine learning especially NLP
+I am a computer science lover, who is passionate about machine learning especially NLP
 
 - 🌱 I’m currently learning Data science.
 - 🤔 I’m looking for help to have an internship in data science field.
