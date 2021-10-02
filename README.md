@@ -1,4 +1,4 @@
-[![Header](https://c4.wallpaperflare.com/wallpaper/307/474/336/hero-8-bit-minimalism-retro-games-wallpaper-preview.jpg<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](hero-8-bit-minimalism-retro-games-wallpaper-preview (1).jpg<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
 # Hi there, I am Gehad 👋!
