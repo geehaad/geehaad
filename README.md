@@ -30,7 +30,8 @@ I am a computer science student who is passionate about machine learning especia
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehaad
+&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
