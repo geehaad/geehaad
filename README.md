@@ -5,8 +5,6 @@
 -->
 <img align="right" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" width="200"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 
 <h2>📱 Contact 🔝</h2>
 
@@ -21,6 +19,9 @@
 [![kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gehadabdelghany)
 [![goodReads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/15131481-gehad)
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geehaad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
