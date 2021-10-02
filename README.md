@@ -1,4 +1,4 @@
-[![Header](https://github.com/geehaad/geehaad<OWNER>/<OWNER>/header.jpg "Header")]
+[![Header]https://raw.githubusercontent.com/geehaad/<OWNER>/<OWNER>/header.jpg "Header")]
 
 
 # Hi there, I am Gehad 👋!
