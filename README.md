@@ -1,4 +1,4 @@
-[![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F668362400942559959%2F&psig=AOvVaw0ZpU0N-1872-09UHbi4IhP&ust=1633278842148000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDzh_6TrPMCFQAAAAAdAAAAABAD<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://c4.wallpaperflare.com/wallpaper/307/474/336/hero-8-bit-minimalism-retro-games-wallpaper-preview.jpg<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
 # Hi there, I am Gehad 👋!
