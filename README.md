@@ -15,7 +15,7 @@ I am a computer science student who is passionate about machine learning especia
 
 <h2>📱 Contact</h2>
 
-[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gehadhisham7@gmail.com)
+[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]: <p>gehadhisham7@gmail.com</p>
 
 
 <h2>👨👩 Social</h2>
