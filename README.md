@@ -32,7 +32,7 @@ I am a computer science lover, who is passionate about machine learning especial
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geehaad)
 
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=geehaad&repo=react&show_owner=true)](https://github.com/facebook/react)
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
 
 
 
