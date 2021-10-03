@@ -11,7 +11,6 @@ I am a computer science lover, who is passionate about machine learning especial
 - 🌱 I’m currently learning Data science.
 - 🤔 I’m looking for an internship in data science field.
 - 💬 Ask me about Statistics ,Python and ML.
--  https://www.linkedin.com/in/gehad-hisham/
 
 <h2>📫 How to reach me:</h2>
 
@@ -30,9 +29,6 @@ I am a computer science lover, who is passionate about machine learning especial
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geehaad)
-
-
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
 
 
 
