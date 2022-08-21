@@ -1,10 +1,11 @@
-# Hello there, I am Gehad ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <!--
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 <div id="header" align="center">
+<h1> Hello there, I am Gehad ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif" width="300"/>
+  </h1>
 </div>
 
 
