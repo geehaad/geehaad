@@ -4,7 +4,7 @@
 **geehaad/geehaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif" width="300"/>
 </div>
 
 
