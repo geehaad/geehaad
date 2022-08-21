@@ -33,8 +33,8 @@ I am a computer science lover, who is passionate about machine learning especial
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geehaad)
-
-
+<br>
+<hr>
 <footer>
   <p>سُبحانَكَ اللَّهمَّ وبحمدِكَ، أشهدُ أن لا إلَهَ إلَّا أنتَ أستغفرُكَ وأتوبُ إليكَ</p>
 </footer>
