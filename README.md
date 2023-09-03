@@ -9,15 +9,14 @@
 </div>
 
 
-I am a computer science lover, who is passionate about machine learning especially NLP
+I have a deep passion for computer science, with a particular fondness for machine learning, especially in the realm of Natural Language Processing (NLP).<br>
 
-- 🌱 I’m currently learning Data science.
-- 🤔 I’m looking for an internship in data science field.
-- 💬 Ask me about Statistics ,Python and ML.
-
+🌱 At present, I am actively advancing my knowledge of data science. <br>
+💬 Feel free to reach out if you have inquiries regarding statistics, Python, NLP, or machine learning and Deep Learning in general.
+<br>
 <h2>📫 How to reach me:</h2>
 
-![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <p>gehadhisham7@gmail.com</p>
+[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gehadhisham7@gmail.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-hisham/)
 
