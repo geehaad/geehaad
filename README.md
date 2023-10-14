@@ -3,7 +3,8 @@
 -->
 
 <div id="header" align="center">
-<h1> Hello there, I am Gehad ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
+<h1>Hello there, I am Gehad! <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="30px"></h1>
+
 <img src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif" width="300">
   </h1>
 </div>
